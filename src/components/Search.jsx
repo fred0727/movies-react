@@ -1,4 +1,3 @@
-import { useEffect, useState } from 'react';
 import { FaSearch } from 'react-icons/fa';
 import { useHistory } from 'react-router-dom';
 import styles from './Search.module.css';
